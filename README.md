@@ -1,4 +1,3 @@
-# 3D-tower-defense
+#map-generation-unity
 
-## Level generator
-Implemented level generator based on PSD file
+Implementation of level generator based of off PSD file
